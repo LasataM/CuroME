@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.env
+
+# Backend
+__pycache__/
+.venv/
+.env
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+*.exe
